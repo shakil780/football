@@ -214,6 +214,9 @@ footer{
         margin: 0px;
         
     }
+    .png-container img{
+        margin-top: 50px;
+    }
 }
 
 
